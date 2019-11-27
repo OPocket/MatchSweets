@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 835763719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f04b31e7f077203aaf6de1ed3e4b05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf68ecfa234253085e7e7e2a0872c614
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa296f2bc74d89e42ad0973acc4ce5e3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/EmptySweetPre.prefab
+Dependencies: []

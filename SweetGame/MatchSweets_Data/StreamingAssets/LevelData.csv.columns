@@ -1,0 +1,8 @@
+﻿<columns units="px">
+  <column name="Level" type="Number" format="G" nulltext="-" alignment="Right" />
+  <column name="TimeDe" type="Text" format="yyyy/M/d ddd" alignment="Right" />
+  <column name="XColumn" type="Text" />
+  <column name="YRow" type="Text" />
+  <column name="AimLimit" type="Text" />
+  <column name="Biscuit_Pos" type="Text" />
+</columns>

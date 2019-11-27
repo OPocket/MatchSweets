@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3282259076
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: streanmingassets/biscuitsweetpreab.bundle
+      Dependencies: {}
+    Info_1:
+      Name: streanmingassets/colorsweetpreab.bundle
+      Dependencies: {}
+    Info_2:
+      Name: streanmingassets/columnspecialsweetpreab.bundle
+      Dependencies: {}
+    Info_3:
+      Name: emptysweetpreab.bundle
+      Dependencies: {}
+    Info_4:
+      Name: gridab.bundle
+      Dependencies: {}
+    Info_5:
+      Name: normalsweetpreab.bundle
+      Dependencies: {}
+    Info_6:
+      Name: rowspecialsweetpreab.bundle
+      Dependencies: {}

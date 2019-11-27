@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3875788491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1025d46f9c5132a2cbdafbcef02d0288
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84efe8a70a27dc8f7efd484857bb4459
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Grid.prefab
+Dependencies: []

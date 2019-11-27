@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 300503691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62d6d4add4bf1a7da34e2aabb4b674e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 64f37d9286cc63eea141d73faabebf67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b84ac476fe01e4fa3f43268addba7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa296f2bc74d89e42ad0973acc4ce5e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af70748c32b9aa14c88ea29861b39465, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ColorSweetPre.prefab
+Dependencies: []

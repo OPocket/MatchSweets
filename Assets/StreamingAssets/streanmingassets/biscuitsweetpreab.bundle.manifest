@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 402030961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b7b280a88268d586bef41f0fb3717fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d027bcc90b4fc6ed576b657d1cb55ab1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa296f2bc74d89e42ad0973acc4ce5e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 116bf84b11b108846ad90f1ab6d58eaf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/BiscuitSweetPre.prefab
+Dependencies: []
